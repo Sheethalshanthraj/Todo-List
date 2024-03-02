@@ -6,4 +6,4 @@ The Todo List website is a user-friendly task management platform designed to he
 -Delete tasks by clicking on the "Clear up" button.
 -Can reset the task by clicking on the "Reset" button.
 -Prioritize tasks by rearranging them based on importance.
--Filter tasks by status (complete/incomplete) or categories/tags to filter click on the "Sort" button.
+- Filter tasks by status (complete/incomplete) or categories/tags to filter click on the "Sort" button.
