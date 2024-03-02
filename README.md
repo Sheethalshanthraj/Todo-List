@@ -7,3 +7,10 @@ The Todo List website is a user-friendly task management platform designed to he
 - Can reset the task by clicking on the "Reset" button.
 - Prioritize tasks by rearranging them based on importance.
 - Filter tasks by status (complete/incomplete) or categories/tags to filter click on the "Sort" button.
+## Testing of project
+- Click buttons, fill out forms, and navigate through the website.
+- Make sure everything looks and works as expected.
+- Open the website on different web browsers like Chrome, Firefox, and Edge.
+- Check if it looks and works well on each browser.
+- Open the website on your smartphone or tablet.
+- Make sure it looks good and works properly on mobile devices.
