@@ -5,6 +5,12 @@ The Todo List website is a user-friendly task management platform designed to he
  Developed with HTML, CSS, and JavaScript, this project offers an intuitive solution for efficient task management. The user-friendly interface allows seamless addition, completion, and deletion of tasks, spotlighting the simplicity and potency of web development. It acts as a welcoming gateway for both beginners and enthusiasts, encouraging exploration of essential technologies and an uplift in productivity. 
  <br>
  Subsequent phases involve the implementation of functions for task operations, including addition, completion, and deletion, with the integration of event handlers to adeptly capture user interactions. Ensuring data persistence, the incorporation of local storage functionality aids in retaining crucial information.
+ <br>
+ <br>
+  HTML code sets up the structure and basic elements for a functional ToDo List application, utilizing Bootstrap for styling and jQuery for interactive behavior.
+  <br>
+ JavaScript code controls initializes variables for various elements, such as the task list (ulTasks) and buttons (btnAdd, btnReset, btnSort, btnCleanup). Functions like addItem() add tasks to the list, clearDone() removes completed tasks, and sortTasks() sorts completed tasks to the bottom. The toggleInputButtons() function enables or disables buttons based on user input. Event listeners are set up for key presses and input changes to handle user interactions. Overall, it provides functionality for adding, managing, and interacting with tasks in the ToDo List.
+ 
  ## Instructions 
 - To add a task, click on the "Add" button.
 - Enter the task title and any additional details.
