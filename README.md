@@ -33,5 +33,4 @@ The Todo List website is a user-friendly task management platform designed to he
 - Check if it looks and works well on each browser.
 - Open the website on your smartphone or tablet.
 - Make sure it looks good and works properly on mobile devices.
-
-![Screenshot 2024-04-03 183328](https://github.com/Sheethalshanthraj/Todo-List/assets/140137118/710b8ab2-cc05-4a10-b272-bcf3f3200d9f)
+## Output
